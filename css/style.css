@@ -129,6 +129,10 @@ a.sidebar-link {
   margin-bottom: 24px;
 }
 
+.card-body {
+  overflow-y: scroll;
+}
+
 .illustration {
   background-color: var(--bs-primary-bg-subtle);
   color: var(--bs-emphasis-color);
